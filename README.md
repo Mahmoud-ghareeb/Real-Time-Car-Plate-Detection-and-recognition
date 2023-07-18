@@ -19,7 +19,7 @@
 ### Model
   1. We will use the most recent YOLO algorithm with is V8 from ultralytics.
   2. Prepare the plates dataset as the following image.
-  <img width="739" alt="detect" src="https://github.com/Mahmoud-ghareeb/Car-Plate-Detection-and-recognition/assets/24641742/92811cf9-d2b6-4c03-86e0-bfcaf133f59a">
+  <img width="739" alt="detect" src="https://user-images.githubusercontent.com/26833433/134436012-65111ad1-9541-4853-81a6-f19a3468b75f.png">
   
   3. Train the plate model.
   4. save the weights
