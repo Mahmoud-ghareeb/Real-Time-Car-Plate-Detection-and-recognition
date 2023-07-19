@@ -28,5 +28,3 @@
   7. crop the image around the predicted box
   8. run the recognition model on the cropped image
   9. Output the text of the plate license.
-
-   
