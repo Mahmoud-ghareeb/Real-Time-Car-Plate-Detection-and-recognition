@@ -2,5 +2,3 @@ runs characters recognition/
 runs plate detection/
 digit-plate-detector old.ipynb
 prediction_video.mp4
-plate model/
-characters model/
