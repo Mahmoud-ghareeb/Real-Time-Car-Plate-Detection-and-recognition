@@ -1,6 +1,6 @@
 # Real-time Car Plate Detection And Recognition
 
-![Video](output_video.mp4)
+![Video](output_video.avi)
 
 
 ### Project
