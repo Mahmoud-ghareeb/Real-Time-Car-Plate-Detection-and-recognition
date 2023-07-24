@@ -1,9 +1,6 @@
 # Real-time Car Plate Detection And Recognition
 
 ![Video](https://youtu.be/fKEgO-3lpWA)
-[![Watch the video](https://img.youtube.com/vi/fKEgO-3lpWA/maxresdefault.jpg)](https://youtu.be/fKEgO-3lpWA)
-
-
 
 ### Project
   building a real-time car plate detection and recognition.
